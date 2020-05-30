@@ -1,9 +1,14 @@
 body {
 	font-size: 16px;
 	color: black;
-	background-color: #87CEEB;
+	background-color: lightblue;
 	font-family: 'Lobster', cursive;
 }
+
+.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
 
 /* HEADER */
 #header-nav {
@@ -34,7 +39,7 @@ body {
 
 /* Section */
 #home {
-	margin-bottom: 30px;
+	margin-bottom: 40px;
 }
 
 .row {
