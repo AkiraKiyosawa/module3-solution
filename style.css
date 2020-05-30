@@ -1,16 +1,16 @@
 body {
 	font-size: 16px;
-	color: white;
-	background-color: #8243d6;
+	color: black;
+	background-color: #87CEEB;
 	font-family: 'Lobster', cursive;
 }
 
 /* HEADER */
 #header-nav {
-	background-color: #530fad;
+	background-color: #6A5ACD	;
 	border-radius: 0;
 	border: 0;
-	color: white;
+	color: black;
 }
 
 .navbar-brand p {
@@ -28,7 +28,7 @@ body {
 }
 
 #nav-list a:hover {
-	background-color: #8243d6;
+	background-color: #6A5ACD	;
 }
 /* END HEADER */
 
@@ -44,7 +44,7 @@ body {
 }
 
 .row > div > article {
-	background-color: white;
+	background-color: #6A5ACD;
 	text-align: justify;
 	margin-bottom: 20px;
 	padding: 12px;
